@@ -8,9 +8,8 @@ if all the boxes can be opened.
 
 def canUnlockAll(boxes):
     '''
-    This function returns:
-        true if all the boxes can be opened, 
-        otherwise it return false.
+    This function returns: true if all the boxes can be opened,
+    otherwise it return false.
     '''
 
     total_boxes = len(boxes)
