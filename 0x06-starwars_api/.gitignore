@@ -1,0 +1,5 @@
+# Ignore node_module created after running npm install
+node_modules/
+
+# Ignore test files
+*-main.js
